@@ -4212,6 +4212,11 @@ hr {
     border-right: 0;
   }
 }
+
+.blog-height{
+  max-height: 250px;
+  object-fit:cover;
+}
 .rs-about-page .rs-about-page-contact .rs-author .rs-thumb {
   height: 80px;
   width: 80px;
