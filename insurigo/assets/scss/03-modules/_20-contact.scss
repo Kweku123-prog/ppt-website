@@ -14,7 +14,7 @@
         span{
             color: $primary;
             &::before{
-                background: #25826A6E;
+                background: red6E;
             }
         }
         .title{
@@ -168,8 +168,8 @@
                 border-radius: 2px;
                 display: block;
                 &:hover{
-                    background: #25826AD1;
-                    border-color: #25826AD1;
+                    background: redD1;
+                    border-color: redD1;
                 }
                 &:active,
                 &:focus{

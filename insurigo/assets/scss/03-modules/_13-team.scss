@@ -276,7 +276,7 @@
             font-weight: 600;
             font-size: 18px;
             &::before{
-                background: #25826A6E;
+                background: red6E;
             }
         }
         .title{
@@ -382,7 +382,7 @@
             tr,
             td{
                 color: $body-color;
-                border: 1px solid #25826a1c;
+                border: 1px solid red1c;
                 padding: 10px 30px;
                 color: $body-color;
                 background: $white;

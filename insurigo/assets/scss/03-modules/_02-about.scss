@@ -133,7 +133,7 @@
           padding-top: 120px;
         } 
         & > span{
-            border: 1px solid #25826A66;
+            border: 1px solid red66;
             font-size: 16px;
             font-weight: 500;
             color: $primary;
@@ -807,7 +807,7 @@
         span{
             color: $primary;
             &::before{
-                background: #25826A6E;
+                background: red6E;
             }
         }
         .title{
@@ -1155,7 +1155,7 @@
         span{
             color: $primary;
             &::before{
-                background: #25826A6E;
+                background: red6E;
             }
         }
         .title{
