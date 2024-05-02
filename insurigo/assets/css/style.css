@@ -7153,10 +7153,11 @@ input::-moz-focus-outer {
 }
 
 .rs-faq-3 {
-  background-image: url(../images/gaq.png);
+  background-image: url(../images/FAQs-rafiki.png);
   background-position: top right;
   background-repeat: no-repeat;
   background-size:cover;
+  object-fit: fill;
   
   position: relative;
   z-index: 10;
@@ -12723,4 +12724,11 @@ input::-moz-focus-outer {
   
 
  
+}
+
+
+
+.imageSheme{
+  max-width: 870px;
+  max-height: 400px;
 }
